@@ -90,12 +90,3 @@ python -m http.server 8000
 
 ---
 
-## 🚀 What's Next?
-
-* **Predictive Hotspots:** Using historical ticketing data to predict where illegal dumping will occur next.
-* **Dynamic Fleet Routing:** Upgrading our greedy algorithm to Google OR-Tools for enterprise-scale municipal fleet management.
-* **Computer Vision Verification:** Comparing "before" and "after" photos algorithmically to fully automate the verification pipeline.
-
-```
-
-```
